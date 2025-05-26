@@ -1,4 +1,3 @@
-
 # 🚨 Scareware Simulator – Fake Virus Alert Educational Tool
 
 > This is an educational simulation of scam-based social engineering attacks that use fake virus alerts and urgency tactics to manipulate users.
@@ -33,6 +32,7 @@ Run this tool normally and it will simulate a full scareware attack:
 
 ```bash
 python detector_svchost.py
+```
 You’ll see:
 
 Fake file scanning progress bar
@@ -52,10 +52,9 @@ Sound alerts (Windows only)
 🛠️ Normal Mode (Legitimate svchost Detector)
 You can also run this tool in normal mode, where it acts as a real svchost.exe process detector:
 
-bash
-Copiar
-Editar
+```bash
 python detector_svchost.py --normal
+```
 Scans running processes.
 
 Identifies fake svchost.exe outside of legitimate system folders.
@@ -77,12 +76,11 @@ The author is not responsible for misuse or harm caused by unauthorized use.
 Always use responsibly and ethically.
 
 📂 File List
-css
-Copiar
-Editar
+```bash
 detector_svchost.py     → Main Python file (demo + real detector)
 README.md               → This file
 LICENSE                 → MIT License
+```
 🧠 Topics
 Social Engineering
 
@@ -105,7 +103,7 @@ Learn from it 🎓
 
 Stay safe online! 🛡️
 
----
+
 
 ## 📄 LICENSE (fitxer `LICENSE`)
 
@@ -131,3 +129,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
 IN THE SOFTWARE.
+```
