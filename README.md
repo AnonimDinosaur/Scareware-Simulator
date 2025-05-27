@@ -53,6 +53,7 @@ Sound alerts (Windows only)
 
 
 ![3](https://github.com/user-attachments/assets/f29d3e95-fea5-49ae-a337-49a3fb183b52)
+![4](https://github.com/user-attachments/assets/cc588729-e735-4602-a578-02ee118654df)
 
 
 🛠️ Normal Mode (Legitimate svchost Detector)
