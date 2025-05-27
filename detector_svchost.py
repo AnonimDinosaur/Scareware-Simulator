@@ -371,7 +371,7 @@ Help Center: +00 000 000 000"""
         
         popup = tk.Toplevel(self.root)
         popup.title("CRITICAL SECURITY ALERT")
-        popup.geometry("500x300")
+        popup.geometry("500x430")
         popup.configure(bg='#ff0000')
         popup.attributes('-topmost', True)
         popup.grab_set()
