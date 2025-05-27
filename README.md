@@ -27,6 +27,7 @@ Its purpose is **to educate people on how social engineering works** in the cont
 ---
 
 ## 🧪 Demo Mode (Default)
+![1](https://github.com/user-attachments/assets/b79608f2-fdba-42bd-a8d0-0c84a0db26a7)
 
 Run this tool normally and it will simulate a full scareware attack:
 
@@ -48,6 +49,11 @@ Countdown that threatens to lock your system
 Sound alerts (Windows only)
 
 🔊 Sounds and popups are for demonstration only.
+
+
+
+![3](https://github.com/user-attachments/assets/f29d3e95-fea5-49ae-a337-49a3fb183b52)
+
 
 🛠️ Normal Mode (Legitimate svchost Detector)
 You can also run this tool in normal mode, where it acts as a real svchost.exe process detector:
